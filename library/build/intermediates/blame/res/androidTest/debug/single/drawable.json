@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\test\\CustomRefreshAnimation\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "D:\\test\\CustomRefreshAnimation\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\test\\CustomRefreshAnimation\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "D:\\test\\CustomRefreshAnimation\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\test\\CustomRefreshAnimation\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\anim_refresh.xml",
+        "source": "D:\\test\\CustomRefreshAnimation\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\anim_refresh.xml"
+    }
+]
